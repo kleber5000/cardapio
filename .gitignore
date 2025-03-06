@@ -1,0 +1,30 @@
+# Ignorar dependências do frontend
+frontend/node_modules/
+frontend/.env
+frontend/dist/
+frontend/build/
+
+# Ignorar dependências do backend
+backend/target/
+backend/.env
+backend/.mvn/
+backend/.idea/
+backend/target/
+backend/.classpath
+backend/.project
+backend/.settings/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos temporários
+*.swp
+*.bak
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos do Docker
+*.dockerfile
+docker-compose.override.yml
