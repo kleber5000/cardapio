@@ -17,11 +17,11 @@ O **Cardápio Digital** é um sistema completo de gestão de cardápios para res
 - 📱 **Responsivo**: A interface é completamente adaptada para todos os tipos de dispositivos.
 
 📷 Imagens do Projeto
-(assets/Tela_principal.png)
+![Tela Principal](assets/Tela_principal.png)
 
-[!Tela de Cadastro](assets/Tela_de_Cadastro.png)
+![Tela de Cadastro](assets/Tela_de_Cadastro.png)
 
-[!Tela de edição](assets/Tela_de_edicao.png)
+![Tela de edição](assets/Tela_de_edicao.png)
 
 🌍 Acesso ao Projeto
 Frontend: Acesse o frontend no seu navegador
